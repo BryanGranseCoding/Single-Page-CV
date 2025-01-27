@@ -18,15 +18,17 @@ h2 {font-size: 17px; font-weight: 500; color: rgb(45, 127, 45);}
 .bg-address-details {font-weight: 500;}
 
 
-/*Mobile Responsive Media Query Soon*/
+/*=======Mobile Responsive Media Query Soon===========*/
 
+/* Styles for mobile devices (phones) */
 @media only screen and (max-width: 767px) {
-    /* Styles for mobile devices (phones) */
+    
 
   }
+
+  /* Styles for tablets (iPads) */  
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
   
-  @media only screen and (min-width: 768px) and (max-width: 1024px) {
-    /* Styles for tablets (iPads) */
  
   }
   
